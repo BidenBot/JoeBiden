@@ -1,0 +1,7 @@
+# JoeBiden
+
+## Setup
+
+## Structure
+
+## Commands
